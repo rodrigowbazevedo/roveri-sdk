@@ -2,6 +2,10 @@
 
 Simples SDK PHP para consultas API [Roveri](roveri.inf.br)
 
+## Usage
+
+`composer require thalita/roveri-sdk`
+
 #### Create Client
 ```php
 use Roveri\SDK\Factory;
