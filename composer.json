@@ -1,0 +1,20 @@
+{
+    "name": "thalita/roveri-sintegra-sdk",
+    "authors": [
+        {
+            "name": "Thalita Barbosa",
+            "email": "thalita.ttb@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "guzzlehttp/guzzle": "~5.3|~6.0"
+    },
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Roveri\\SDK\\" : "src/"
+        }
+    }
+}
