@@ -1,9 +1,9 @@
 {
-    "name": "thalita/roveri-sintegra-sdk",
+    "name": "rodrigowba/roveri-sdk",
     "authors": [
         {
-            "name": "Thalita Barbosa",
-            "email": "thalita.ttb@hotmail.com"
+            "name": "Rodrigo Azevedo",
+            "email": "rodrigowbazevedo@yahoo.com.br"
         }
     ],
     "require": {

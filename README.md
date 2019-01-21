@@ -1,10 +1,10 @@
 # Roveri Sistemas SDK
 
-Simples SDK PHP para consultas API [Roveri](roveri.inf.br)
+Simples SDK PHP para consultas API [Roveri](https://www.roveri.inf.br)
 
 ## Usage
 
-`composer require thalita/roveri-sdk`
+`composer require rodrigowba/roveri-sdk`
 
 #### Create Client
 ```php
